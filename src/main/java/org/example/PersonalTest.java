@@ -5,11 +5,10 @@ import java.util.List;
 
 public class PersonalTest {
     public static void main(String[] args) {
-        List<Integer> list = new ArrayList<>();
+        List<Integer> test = new ArrayList<>();
 
-        for (int i=0; i<1000000;i++){
-            list.add(i);
+        if(!test.isEmpty()){
+
         }
-        System.out.println(list);
     }
 }
