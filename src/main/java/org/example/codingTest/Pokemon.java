@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class Poketmon {
+public class Pokemon {
     public static void main(String[] args) {
         int[] nums = new int[]{3,1,2,3};
 //        List<Integer> nums = Arrays.asList(3,1,2,3);
